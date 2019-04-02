@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "742873943722",
+    "firebase_url": "https://my-messager-cdd12.firebaseio.com",
+    "project_id": "my-messager-cdd12",
+    "storage_bucket": "my-messager-cdd12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742873943722:android:7bf42ea614234a17",
+        "android_client_info": {
+          "package_name": "coder.seventy.two.my_messager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHrBLS4X9xGw8nkMsr4eAjW8EUKBBudDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742873943722-rijjh4eregud1fhnt8vnv219los3tj3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

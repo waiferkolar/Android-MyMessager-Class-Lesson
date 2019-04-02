@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My-Messager</string>
+    <string name="go_to_login">Already Member! Please login here!</string>
+    <string name="login_title">Login To Chat</string>
+    <string name="go_to_register">Not a member yet! Please Register here!</string>
+</resources>
